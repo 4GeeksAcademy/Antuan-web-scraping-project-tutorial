@@ -47,6 +47,7 @@ La descarga del HTML de la página web se realizará con la librería `requests`
 La página web que queremos scrapear es la siguiente: [https://en.wikipedia.org/wiki/List_of_most-streamed_songs_on_Spotify](https://en.wikipedia.org/wiki/List_of_most-streamed_songs_on_Spotify). Recopila y almacena información y guarda el texto scrapeado de la web en alguna variable.
 
 
+
 ## Paso 3: Transforma el HTML
 
 
